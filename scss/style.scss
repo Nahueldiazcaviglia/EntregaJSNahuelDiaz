@@ -1,0 +1,21 @@
+@import "./variables";
+@import "./nav";
+@import "./footer";
+@import "./mixins";
+
+  #cuerpo{
+    background-image: url("../assets/imagenes/fondos-historias-01.webp");
+    height: 90vh;
+  }
+  h2{ @include colorAndFuente;
+    font-family: 'Libre Caslon Text', serif;      
+  }   
+  h5{ @include colorAndFuente;
+    font-family: 'Libre Caslon Text', serif;   
+  }  
+  p{ @include colorAndFuente;
+    font-family: 'Open Sans', sans-serif;
+  }
+  .form-label{
+    @include colorAndFuente;
+  }

@@ -1,0 +1,41 @@
+[
+	{
+		"precio": 1200,
+		"id": 1,
+		"title": "Shampoo Cabello Graso",
+		"thumbnailUrl": "../assets/imagenes/DSC_0137.webp"
+	},
+
+	{
+		"precio": 1200,
+		"id": 2,
+		"title": "Shampoo Anticaspa",
+		"thumbnailUrl": "../assets/imagenes/dsc-0368.webp"
+	},
+
+	{
+		"precio": 600,
+		"id": 3,
+		"title": "Bombas efervecentes",
+		"thumbnailUrl": "../assets/imagenes/dsc-0429.webp"
+	},
+
+	{
+		"precio": 1500,
+		"id": 4,
+		"title": "Crema de Enjuague",
+		"thumbnailUrl": "../assets/imagenes/dsc-0268.webp"
+	},
+    {
+		"precio": 1200,
+		"id": 4,
+		"title": "Shampoo Cabello Seco",
+		"thumbnailUrl": "../assets/imagenes/DSC_0154.webp"
+	},
+    {
+		"precio": 1200,
+		"id": 4,
+		"title": "Shampoo Cabello Normal",
+		"thumbnailUrl": "../assets/imagenes/dsc-0112.webp"
+	}
+]
